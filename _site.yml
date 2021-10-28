@@ -1,0 +1,15 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Alexandra Temple"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+output:
+   html_document:
+    theme: yeti
+    highlight: textmate
+    css: styles.css
+

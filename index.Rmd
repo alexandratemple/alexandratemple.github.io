@@ -1,0 +1,15 @@
+---
+title: "Home"
+output: html_document
+---
+
+I am a current graduate student at the University of New Hampshire. 
+
+## Education
+
+* Union College BS in Biochemistry 2020
+   + minor in mathematics
+
+* University of New Hampshire Current PhD student in Biochemistry
+
+![](../../Desktop/Pictures/Alex_pic.PNG)

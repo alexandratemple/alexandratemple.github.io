@@ -1,0 +1,25 @@
+---
+title: "About Me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+
+I grew up in western Massachusetts playing sports and being outdoors. I graduated high school and went to Union College in upstate New York. Following my undergraduate degree, I went to the University of New Hampshire where I am currently studying biochemistry. 
+
+## Sports
+* Soccer
+* Skiing
+* Crew
+
+## Hobbies
+
+I love to be outdoors whenever I get the chance. I am an avid runner and skier. I also enjoy drinking coffee and spending time with dogs.
+
+\center
+
+![](../../Desktop/Pictures/Thunderhouse.PNG)
